@@ -1,0 +1,16 @@
+Age,Gender,Experience,Education,Role,Location,Salary
+22,Female,1,Bachelors,Software Engineer,Mumbai,350000
+25,Male,3,Masters,Data Analyst,Bangalore,650000
+30,Male,5,Masters,Software Engineer,Bangalore,900000
+24,Female,2,Bachelors,HR Executive,Delhi,400000
+35,Female,4,PhD,Manager,Mumbai,1200000
+32,Male,6,Masters,Data Scientist,Bangalore,1300000
+40,Male,7,PhD,Manager,Delhi,1400000
+21,Female,0,Bachelors,Intern,Mumbai,150000
+27,Male,3,Masters,Software Engineer,Delhi,750000
+29,Female,5,Bachelors,QA Engineer,Hyderabad,600000
+23,Female,1,Bachelors,Data Analyst,Mumbai,320000
+31,Male,4,Masters,Data Scientist,Bangalore,1100000
+26,Female,2,Bachelors,HR Executive,Hyderabad,420000
+34,Male,6,PhD,Manager,Mumbai,1250000
+36,Male,8,Masters,Software Engineer,Bangalore,1000000
