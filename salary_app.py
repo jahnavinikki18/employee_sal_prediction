@@ -99,4 +99,4 @@ st.bar_chart(role_salary_avg)
 
 # 🐾 Footer
 st.markdown("---")
-st.markdown("Made with ❤️ by Kitty for his coding queen 👸🏻🐱")
+
